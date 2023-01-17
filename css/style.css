@@ -29,7 +29,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.5rem 7%;
+    padding: 0.8rem 7%;
     background-color: rgba(1, 1, 1, 0.9);
     border-bottom: 1px solid #513c28;
     position: fixed;
