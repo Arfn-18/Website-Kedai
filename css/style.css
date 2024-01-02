@@ -16,16 +16,16 @@ html{
     scroll-behavior: smooth;
 }
 
-body::-webkit-scrollbar{
-    display: none;
-}
-
 body {
     font-family: 'poppins', sans-serif;
     background-color: var(--bg);
     color: #fff;
     overflow: hidden;
     /* min-height: 4000px; */
+}
+
+body::-webkit-scrollbar{
+    display: none;
 }
 
 /* navbar */
