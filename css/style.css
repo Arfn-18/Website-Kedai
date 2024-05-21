@@ -24,10 +24,6 @@ body {
     /* min-height: 4000px; */
 }
 
-body::-webkit-scrollbar{
-    display: none;
-}
-
 /* navbar */
 
 .navbar {
